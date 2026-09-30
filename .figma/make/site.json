@@ -1,0 +1,10 @@
+{
+  "description": "Manage your user profile with ease by updating your photo, nickname, and unique ID, as well as changing your password or deleting your account.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
